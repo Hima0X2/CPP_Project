@@ -1,0 +1,9 @@
+sleep-for waiting
+ usleep() function which will sleep given value in a microsecond.(for linux)
+delay o sleep er moto kaj kre.
+sleep windows e milisecend e kaj kre.(Windows e usleep nai)
+linux e usleep microsecond e kaj kre and sleep sec e kaj kre.
+
+for windows-#include <Windows.h>
+for linux-#include <unistd.h>
+**online compiler linux er style e use hoy
